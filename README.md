@@ -1,13 +1,14 @@
 Social Media Application 📱🌟
+<br>
 A full-featured social media platform where users can:
 
-Post messages and images.
-    ➡️Like, comment on, and delete their own posts.
-    ➡️Follow and unfollow other users.
-    ➡️Receive live notifications about activities like likes, comments, and follows.
-    ➡️Enjoy a seamless user experience with dark/light mode support.
-    ➡️Access a user-friendly settings menu for customizing their experience.
-    ➡️View their profile, including their posts
+Post messages and images.<br>
+    ➡️Like, comment on, and delete their own posts.<br>
+    ➡️Follow and unfollow other users.<br>
+    ➡️Receive live notifications about activities like likes, comments, and follows.<br>
+    ➡️Enjoy a seamless user experience with dark/light mode support.<br>
+    ➡️Access a user-friendly settings menu for customizing their experience.<br>
+    ➡️View their profile, including their posts<br>
 
 Features 🚀
 Core Features:
